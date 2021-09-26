@@ -12,11 +12,11 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 # Link to the video demo  
 
-> ###   URL   : https://www.youtube.com/watch?v=dhVePtyECFw
+> ###   URL   : https://drive.google.com/file/d/1it-SG2szKsbJTirECSVTjQv0cQSvt01r/view?usp=sharing
 
 # Link to the project 
 
-> ####  URL - https://the-movie-buff.herokuapp.com/ 
+> ####  URL -  
 
 ## How to get the API key?
 

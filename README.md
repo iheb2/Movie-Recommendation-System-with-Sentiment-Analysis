@@ -16,7 +16,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 # Link to the project 
 
-> ####  URL -  
+> ####  URL - https://mrovie-recommander.herokuapp.com/
 
 ## How to get the API key?
 

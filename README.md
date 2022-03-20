@@ -7,8 +7,11 @@
 
 # Summary
 Content-Based Recommender System recommends movies based on the users prior movie preferences .
+
 Applying sentiment analyse on the users' given reviews for that movie.
+
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api
+
 Using the IMDB id of the movie in the API, Web Scraping was conducted to collect the reviews .
 
 # Link to the video demo  
